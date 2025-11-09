@@ -1,6 +1,8 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-
+## NAME : EZHILARASI N
+## REG NO : 212224040088
+## DATE : 12.9.2025
 # AIM:
 To write a C program that receives a message from message queue and display them
 
